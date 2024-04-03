@@ -1,14 +1,21 @@
 {
   "name": "task_0",
   "version": "1.0.0",
-  "description": "",
+  "description": "Webpack project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack --node development",
     "build": "webpack--mode production"
   },
-  "keywords": [],
+  "keywords": [
+    "asset compilation",
+    "entry points",
+    "javascript",
+    "loaders",
+    "output",
+    "webpack plugins"
+  ],
   "author": "Raymond Wairegi",
   "license": "ISC",
   "devDependencies": {
